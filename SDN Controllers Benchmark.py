@@ -8,7 +8,7 @@ x = np.arange(4)
 #flowsT = [30094.09, 133285.65, 2986.43, 33568.73]
 
 flowsL = [1802.2, 28335.38, 37755.46, 3416.99]
-flowsT = [3052.9, 30094.09, 133285.65, 2986.43]
+flowsT = [3052.9, 3009.09, 1332.65, 2986.43]
 
 def seconds(x, pos):
     'The two args are the value and tick position'
