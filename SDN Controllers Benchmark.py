@@ -12,7 +12,7 @@ flowsT = [3052.9, 30094.09, 133285.65, 2986.43]
 
 def seconds(x, pos):
     'The two args are the value and tick position'
-    return '$%1.1fK' % (x * 1e-3)
+    return '%1.1f' % (x * 1e-3)
 
 
 formatter = FuncFormatter(seconds)
