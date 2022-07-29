@@ -34,6 +34,3 @@ legend_drawn_flag = True
 plt.legend(["ONOS", "Floodlight", "OpenDayLight", "RYU"], loc=0, frameon=legend_drawn_flag)
 
 plt.show()
-", "RYU"], loc=0, frameon=legend_drawn_flag)
-
-plt.show()
