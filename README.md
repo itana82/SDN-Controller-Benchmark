@@ -14,17 +14,17 @@ The following repository contains both code for benchmarking 4 different SND con
 * matplotlib
 
 ### How to Use
-```bash```
+```bash
 git clone https://github.com/r4space/SDN-Controller-Benchmark.git
 cd SDN-Controller-Benchmark/src
 python3 AnalyseResults.py -f ../example_data/Latency_Results.csv -u Latency\ \(ms\) -p bar
-```bash```
+```
 
 #### Help
 To see all script options run help:
-```bash```
+```bash
 python3 AnalyseResults.py --help
-```bash```
+```
 
 
 ### How to develop
@@ -36,4 +36,4 @@ To contribute to this project read the above guides on how to use and develop th
 * To improve the code base please fork the repository and submit a pull request
 
 ### LICENSE:
-This repository is licensed under <???> which can be found <here>
+This repository is licensed under <???> which can be found < add link here >
